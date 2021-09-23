@@ -43,8 +43,8 @@ Mean Absolute Error: 3304.0037774779107
 Mean Squared Error: 829976062.346561
 Root Mean Squared Error: 28809.305134740076
  
-Based on the above results Decision Tree model was selected for testing (i.e. for prediction)
+Based on the above results Decision Tree Regressor model was selected for testing (i.e. for prediction)
 
 The code for training and testing was attached along with prediction results of test dataset
 
-# Thus ,prediction of adviews was done successfully using the decision tree model 
+# Thus ,prediction of adviews was done successfully using the decision tree Regressor model 
