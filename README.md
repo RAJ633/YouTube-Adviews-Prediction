@@ -7,14 +7,14 @@ It is known fact that youtube advertisers pay content creaters based on the numb
 # About the Project :
 
 ## Cleaning of data (training and testing datasets were attached)
-Firstly, the data (train + test datasets) were rifined and cleaned before feeding them to the model for better results
+Firstly, the data (train + test datasets) were refined and cleaned before feeding them to the model for better results
 
 ## Training the model
 The various Regression models used in training the model are :
 1)Linear Regression model
 2)Support Vector Regressor model
 3)Decision Tree Regressor model
-4)Random Fprest Regressor model
+4)Random Forest Regressor model
 5)Artificial Neural Network model
 
 # Result of training  
@@ -47,4 +47,4 @@ Based on the above results Decision Tree Regressor model was selected for testin
 
 The code for training and testing was attached along with prediction results of test dataset
 
-# Thus ,prediction of adviews was done successfully using the decision tree Regressor model 
+# Thus, prediction of adviews was done successfully using the decision tree Regressor model 
